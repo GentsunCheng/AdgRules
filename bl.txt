@@ -1,6 +1,8 @@
 ! Title: Orii's BL Rule
 ! Description: Personal
 
+#垃圾网站
+
 !2345
 ||2345.*^
 ||2345*.*^
@@ -17,6 +19,13 @@
 !58同城
 ||58.*^
 ||58cdn.*^
+
+#广告
+
+!||umeng.*^
+||umeng*.*^
+
+#其他
 
 !bilibili P2P
 *live-p2p*.bilibili*
