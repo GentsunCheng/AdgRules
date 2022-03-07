@@ -1,1 +1,5 @@
-@@||pvz-beta.site^$important
+! Title: Orii's WL Rule
+! Description: Personal
+
+!Plants Vs Zombies beta
+@@||pvz-beta.site^
