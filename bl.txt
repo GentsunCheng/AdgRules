@@ -1,7 +1,21 @@
+! Title: Orii's BL Rule
+! Description: Personal
+
+!2345
 ||2345.*^
 ||2345*.*^
+
+!360
 ||360.*^
+
+!迷你玩
 ||mini1.*^
+
+!百家号
 ||baijiahao.baidu.com^
-||58.com^
+
+!58同城
+||58.*^
+
+!bilibili P2P
 *live-p2p*.bilibili*
