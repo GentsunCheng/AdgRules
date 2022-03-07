@@ -16,6 +16,8 @@
 
 !58同城
 ||58.*^
+||58.*.*^
+||58cdn.*^
 
 !bilibili P2P
 *live-p2p*.bilibili*
