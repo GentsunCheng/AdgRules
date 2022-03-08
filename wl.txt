@@ -4,5 +4,6 @@
 !Personal Domain Name
 @@||orii.xyz^
 
-!Plants Vs Zombies beta
+!game
+@@||minecraft.net^
 @@||pvz-beta.site^
