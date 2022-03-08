@@ -1,5 +1,8 @@
 ! Title: Orii's WL Rule
 ! Description: Personal
 
+!Personal Domain Name
+@@||orii.xyz^
+
 !Plants Vs Zombies beta
 @@||pvz-beta.site^
