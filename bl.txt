@@ -3,6 +3,27 @@
 
 #垃圾网站
 
+!导航
+||hao.*^
+
+!下载站
+||51xiazai.*^
+||pconline.*^
+||xiazaiba.*^
+||downxia.*^
+||xitongzhijia.*^
+||onlinedown.*^
+||mydown.*^
+||pc6.*^
+
+!腾讯电脑管家
+||guanjia.qq.*^
+||pc.qq.*
+
+!金山毒霸
+||duba.*^
+||*jinshan.*^
+
 !2345
 ||2345.*^
 ||2345*.*^
