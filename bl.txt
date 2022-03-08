@@ -4,7 +4,10 @@
 #垃圾网站
 
 !导航
+||1234*^
+||123.*^
 ||hao.*^
+||liulanqi.*^
 
 !下载站
 ||51xiazai.*^
@@ -15,6 +18,12 @@
 ||onlinedown.*^
 ||mydown.*^
 ||pc6.*^
+||bear20.*^
+
+!国内驱动
+||drivergenius.*^
+||qudongrensheng.*^
+||mydrivers.*^
 
 !腾讯电脑管家
 ||guanjia.qq.*^
