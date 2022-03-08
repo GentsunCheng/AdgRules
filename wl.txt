@@ -13,6 +13,7 @@
 
 #mail
 @@||imap.*^
+@@||smtp.*^
 
 #other
 @@||aka.ms^
