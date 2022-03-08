@@ -4,12 +4,12 @@
 #垃圾网站
 
 !导航
-||*.bcebos.com^
-||hao123*.*^
-||hao123.*^
-||123.*^
-||hao.*^
-||liulanqi.*^
+||*.bcebos.com^$important
+||hao123*.*^$important
+||hao123.*^$important
+||123.s*^$important
+||hao.*^$important
+||liulanqi.*^$important
 
 !下载站
 ||51xiazai.*^
@@ -40,7 +40,7 @@
 ||2345*.*^
 
 !360
-||360.*^
+||360.c*^$important
 
 !迷你玩
 ||mini1.*^
@@ -49,13 +49,13 @@
 ||baijiahao.baidu.com^
 
 !58同城
-||58.*^
-||58cdn.*^
+||58.c^$important
+||58cdn.*^$important
 
 #广告
 
-!||umeng.*^
-||umeng*.*^
+!||umeng.*^$important
+||umeng*.*^$important
 
 #其他
 
