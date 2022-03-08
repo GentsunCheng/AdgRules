@@ -11,9 +11,5 @@
 @@||steamcommunity.com^
 @@||pvz-beta.site^
 
-#mail
-@@||imap.*^
-@@||smtp.*^
-
 #other
 @@||aka.ms^
