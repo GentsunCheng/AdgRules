@@ -6,4 +6,10 @@
 
 !game
 @@||minecraft.net^
+@@||steampowered.com^
+@@||oringin.com^
+@@||steamcommunity.com^
 @@||pvz-beta.site^
+
+#other
+@@||aka.ms^
