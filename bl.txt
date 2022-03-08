@@ -4,7 +4,7 @@
 #垃圾网站
 
 !导航
-/hao123-static.cdn.bcebos.com/
+||*.bcebos.com^
 ||hao123*.*^
 ||hao123.*^
 ||123.*^
