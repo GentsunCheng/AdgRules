@@ -1,4 +1,4 @@
-! Title: Orii's BL Rule
+! Title: Orii's host Rule
 ! Description: Personal
 
 #垃圾网站

@@ -2,14 +2,14 @@
 ! Description: Personal
 
 !Personal Domain Name
-@@||orii.xyz^
+@@orii.xyz^
 
 !game
-@@||minecraft.net^
-@@||steampowered.com^
-@@||oringin.com^
-@@||steamcommunity.com^
-@@||pvz-beta.site^
+@@minecraft.net^
+@@steampowered.com^
+@@oringin.com^
+@@steamcommunity.com^
+@@pvz-beta.site^
 
 #other
-@@||aka.ms^
+@@aka.ms^
