@@ -4,58 +4,58 @@
 #垃圾网站
 
 !导航
-*.bcebos.com^
-hao123*.*^
-hao123.*^
-123.s*^
-hao.*^
-liulanqi.*^
+*.bcebos.com
+hao123*.*
+hao123.*
+123.s*
+hao.*
+liulanqi.*
 
 !下载站
-51xiazai.*^
-pconline.*^
-xiazaiba.*^
-downxia.*^
-xitongzhijia.*^
-onlinedown.*^
-mydown.*^
-pc6.*^
-bear20.*^
+51xiazai.*
+pconline.*
+xiazaiba.*
+downxia.*
+xitongzhijia.*
+onlinedown.*
+mydown.*
+pc6.*
+bear20.*
 
 !国内驱动
-drivergenius.*^
-qudongrensheng.*^
-mydrivers.*^
+drivergenius.*
+qudongrensheng.*
+mydrivers.*
 
 !腾讯电脑管家
-guanjia.qq.*^
+guanjia.qq.*
 pc.qq.*
 
 !金山毒霸
-duba.*^
-*jinshan.*^
+duba.*
+*jinshan.*
 
 !2345
-2345.*^
-2345*.*^
+2345.*
+2345*.*
 
 !360
-360.c*^
+360.c*
 
 !迷你玩
-mini1.*^
+mini1.*
 
 !百家号
-baijiahao.baidu.com^
+baijiahao.baidu.com
 
 !58同城
-58.c^
-58cdn.*^
+58.c
+58cdn.*
 
 #广告
 
-!umeng.*^
-umeng*.*^
+!umeng.*
+umeng*.*
 
 #其他
 
