@@ -13,6 +13,6 @@
 
 #other
 @@aka.ms^
-@@||cp.fjg360.cn^
-@@||drive.autodesk360.com^
+@@||*.fjg360.cn^
+@@||*.autodesk360.com^
 @@||*.unity3d.com^
