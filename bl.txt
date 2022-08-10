@@ -6,7 +6,9 @@
 !导航
 *.bcebos.com^
 hao123*.*^
+*.hao123*.*^
 hao123.*^
+*.hao123.*^
 123.s*^
 hao.*^
 liulanqi.*^
@@ -44,6 +46,7 @@ duba.*^
 
 !迷你玩
 mini1.*^
+*.mini1.*^
 
 !百家号
 baijiahao.baidu.com^
