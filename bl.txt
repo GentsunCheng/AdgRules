@@ -60,6 +60,11 @@
 !umeng.*^
 ||umeng*.*^
 
+!三星
+||adx.ad-survey.com^
+||galaxystore.ad-survey.com^
+||tdapi.srcgsre.com^
+
 #其他
 
 !bilibili P2P
