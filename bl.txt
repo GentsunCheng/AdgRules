@@ -55,6 +55,11 @@
 ||58.c^
 ||58cdn.*^
 
+!淘宝广告
+||userlink.alicdn.com^
+||bixi.alicdn.com^
+||gjusp.alicdn.com^
+
 #广告
 
 !umeng.*^
