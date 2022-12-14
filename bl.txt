@@ -71,8 +71,5 @@
 ||tdapi.srcgsre.com^
 
 #其他
-
-!bilibili P2P
-||*live-p2p*.bilibili*^
 static.zhihu.com/heifetz/main.signflow.*.js
 static.zhihu.com/heifetz/*.signflow.*.css
