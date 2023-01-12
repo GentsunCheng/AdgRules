@@ -70,6 +70,9 @@
 ||galaxystore.ad-survey.com^
 ||tdapi.srcgsre.com^
 
+!reason cybersecurity
+||reasonlabs.com^
+
 #其他
 static.zhihu.com/heifetz/main.signflow.*.js
 static.zhihu.com/heifetz/*.signflow.*.css
