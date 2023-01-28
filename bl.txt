@@ -3,6 +3,34 @@
 
 #垃圾网站
 
+!抖音
+||amemv.com^
+||bdurl.net^
+||bytedance.net^
+||douyin.com^
+||douyincdn.com^
+||ixigua.com^
+||snssdk.com^
+||toutiao.com^
+||yximgs.com^
+||byteimg.com^
+||douyinvod.com^
+||iesdouyin.com^
+||api.amemv.com^
+||aweme.snssdk.com^
+||dm.toutiao.com^
+||effect.snssdk.com^
+||hotsoon.snssdk.com^
+||i.snssdk.com^
+||is.snssdk.com^
+||is.snssdk.com^
+||iu.snssdk.com^
+||lf.snssdk.com^
+||log.snssdk.com^
+||mon.snssdk.com^
+||xlog.snssdk.com^
+||api-sv.videoparse.cn^
+
 !导航
 ||*.bcebos.com^
 ||hao123*.*^
