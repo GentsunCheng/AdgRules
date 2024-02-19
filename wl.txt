@@ -1,8 +1,9 @@
 ! Title: Orii's WL Rule
 ! Description: Personal
 
-!Personal Domain Name
+!Custom
 @@orii.top^
+@@||ibruce.info^
 
 !game
 @@minecraft.net^
