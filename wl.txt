@@ -2,7 +2,7 @@
 ! Description: Personal
 
 !Personal Domain Name
-@@orii.xyz^
+@@orii.top^
 
 !game
 @@minecraft.net^
